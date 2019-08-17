@@ -1,0 +1,23 @@
+{
+  "name": "village-life",
+  "version": "1.0.0",
+  "description": "A simulation of a fictional village in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmfreem001/village-life.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmfreem001/village-life/issues"
+  },
+  "homepage": "https://github.com/jmfreem001/village-life#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
