@@ -1,4 +1,4 @@
-// Probably move behaviors to a separate module. 
+
 const canEat = (state) => ({
   eat: () => {
     console.log(`${state.name} chows down!`);
